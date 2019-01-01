@@ -1,6 +1,7 @@
 public class HelloWorld{
 
-	public static void mian(String[] args) {
+	public void sayHello() {
 		System.out.println("Hello, World!");
 	}
+	
 }
